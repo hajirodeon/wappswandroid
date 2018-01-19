@@ -1,0 +1,153 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-camera@~2.4.1",
+      "/home/biasawae/COBA_ANDROID/BelajarNih"
+    ]
+  ],
+  "_from": "cordova-plugin-camera@>=2.4.1 <2.5.0",
+  "_id": "cordova-plugin-camera@2.4.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-camera",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-camera-2.4.1.tgz_1493685628652_0.28620520583353937"
+  },
+  "_npmUser": {
+    "email": "maj.fil@gmail.com",
+    "name": "filmaj"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-camera",
+    "raw": "cordova-plugin-camera@~2.4.1",
+    "rawSpec": "~2.4.1",
+    "scope": null,
+    "spec": ">=2.4.1 <2.5.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-camera/-/cordova-plugin-camera-2.4.1.tgz",
+  "_shasum": "195e34e12db64f1c49e764f7d4e3f261aa3d94c1",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-camera@~2.4.1",
+  "_where": "/home/biasawae/COBA_ANDROID/BelajarNih",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-camera/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-camera",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "browser",
+      "firefoxos",
+      "ios",
+      "ubuntu",
+      "windows",
+      "windows8",
+      "wp7",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Camera Plugin",
+  "devDependencies": {
+    "dmd-plugin-cordova-plugin": "^0.1.0",
+    "husky": "^0.10.1",
+    "jsdoc-to-markdown": "^1.2.0",
+    "jshint": "^2.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "195e34e12db64f1c49e764f7d4e3f261aa3d94c1",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-camera/-/cordova-plugin-camera-2.4.1.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-camera#readme",
+  "keywords": [
+    "camera",
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-browser",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "anis",
+      "email": "anis.kadri@gmail.com"
+    },
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "cordovaowner",
+      "email": "stevengill.97@gmail.com"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    },
+    {
+      "name": "surajpindoria",
+      "email": "suraj.pindoria@yahoo.com"
+    }
+  ],
+  "name": "cordova-plugin-camera",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-camera.git"
+  },
+  "scripts": {
+    "gen-docs": "jsdoc2md --template \"jsdoc2md/TEMPLATE.md\" \"www/**/*.js\" --plugin \"dmd-plugin-cordova-plugin\" > README.md",
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests",
+    "precommit": "npm run gen-docs && git add README.md",
+    "test": "npm run jshint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "2.4.1"
+}

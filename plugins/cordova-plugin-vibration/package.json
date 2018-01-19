@@ -1,0 +1,138 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-vibration@~2.1.5",
+      "/home/biasawae/COBA_ANDROID/BelajarNih"
+    ]
+  ],
+  "_from": "cordova-plugin-vibration@>=2.1.5 <2.2.0",
+  "_id": "cordova-plugin-vibration@2.1.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-vibration",
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-vibration-2.1.6.tgz_1510361681363_0.9004129036329687"
+  },
+  "_npmUser": {
+    "email": "stevengill97@gmail.com",
+    "name": "stevegill"
+  },
+  "_npmVersion": "4.6.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-vibration",
+    "raw": "cordova-plugin-vibration@~2.1.5",
+    "rawSpec": "~2.1.5",
+    "scope": null,
+    "spec": ">=2.1.5 <2.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-vibration/-/cordova-plugin-vibration-2.1.6.tgz",
+  "_shasum": "e57295892cf15e44b0c99f8feb44774395cb4a3e",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-vibration@~2.1.5",
+  "_where": "/home/biasawae/COBA_ANDROID/BelajarNih",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB"
+  },
+  "cordova": {
+    "id": "cordova-plugin-vibration",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "firefoxos",
+      "ios",
+      "tizen",
+      "ubuntu",
+      "wp7",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Vibration Plugin",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e57295892cf15e44b0c99f8feb44774395cb4a3e",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-vibration/-/cordova-plugin-vibration-2.1.6.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-vibration#readme",
+  "keywords": [
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-tizen",
+    "cordova-ubuntu",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova",
+    "vibration"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-vibration",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-vibration.git"
+  },
+  "scripts": {
+    "eslint": "eslint www && eslint src && eslint tests",
+    "test": "npm run eslint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "2.1.6"
+}

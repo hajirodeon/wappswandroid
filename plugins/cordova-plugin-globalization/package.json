@@ -1,0 +1,140 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-globalization@~1.0.7",
+      "/home/biasawae/COBA_ANDROID/BelajarNih"
+    ]
+  ],
+  "_from": "cordova-plugin-globalization@>=1.0.7 <1.1.0",
+  "_id": "cordova-plugin-globalization@1.0.9",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-globalization",
+  "_nodeVersion": "8.9.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-globalization-1.0.9.tgz_1513795156453_0.47904285741969943"
+  },
+  "_npmUser": {
+    "email": "stevengill97@gmail.com",
+    "name": "stevegill"
+  },
+  "_npmVersion": "4.6.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-globalization",
+    "raw": "cordova-plugin-globalization@~1.0.7",
+    "rawSpec": "~1.0.7",
+    "scope": null,
+    "spec": ">=1.0.7 <1.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.9.tgz",
+  "_shasum": "465b9998feea0b888844d09cd7da02bfa26cb7a3",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-globalization@~1.0.7",
+  "_where": "/home/biasawae/COBA_ANDROID/BelajarNih",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB"
+  },
+  "cordova": {
+    "id": "cordova-plugin-globalization",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "firefoxos",
+      "ios",
+      "tizen",
+      "ubuntu",
+      "windows",
+      "wp7",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Globalization Plugin",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "465b9998feea0b888844d09cd7da02bfa26cb7a3",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.9.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-globalization#readme",
+  "keywords": [
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-tizen",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova",
+    "globalization"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-globalization",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-globalization.git"
+  },
+  "scripts": {
+    "eslint": "eslint www && eslint src && eslint tests",
+    "test": "npm run eslint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "1.0.9"
+}
